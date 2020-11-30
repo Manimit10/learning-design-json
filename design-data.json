@@ -1,0 +1,42 @@
+{
+	"designData": [{
+			"name": "Collaborative idea generation",
+			"description": "In this activity, you will have to propose an idea for our design project: Build a robot that helps children learn mathematics. At the initial level you will have to propose the idea and during the discussions you will need to point advantages and disadvantages of the proposed ideas. In the final level you will have to conclude in one idea.",
+			"Author": "Konmich",
+			"link": "https://ilde.upf.edu/pg/lds/vieweditor/12988/",
+			"minutes": "120 minutes",
+			"distance VS classroom": "Distance Learning",
+			"education-level": "Bachelor or Equivalent",
+			"student amount": "Less than 10 students",
+			"subject": "Social Science, Business & Law",
+			"time": "Between 10-20 mins",
+			"bloom": "Remember"
+		},
+		{
+			"name": "Metodología Docente",
+			"description": "¿Qué ventajas e inconvenientes destacarías del uso de múltiples estrategias metodológicas de E-A para atender la diversidad del estudiantado?",
+			"Author": "Verónica",
+			"link": "https://ilde.upf.edu/pg/lds/vieweditor/14229/",
+			"minutes": "120 minutes",
+			"distance VS classroom": "In the Classroom",
+			"education-level": "Early Childhood Education",
+			"student amount": "Less than 10 students",
+			"subject": "General Programmes",
+			"time": "Less than 10 mins",
+			"bloom": "Remember"
+		},
+		{
+			"name": "Metodología Docente",
+			"description": "¿Qué ventajas e inconvenientes destacarías del uso de múltiples estrategias metodológicas de E-A para atender la diversidad del estudiantado?",
+			"Author": "Verónica",
+			"link": "https://ilde.upf.edu/pg/lds/vieweditor/14229/",
+			"minutes": "120 minutes",
+			"distance VS classroom": "In the Classroom",
+			"education-level": "Master or Equivalent",
+			"student amount": "Less than 10 students",
+			"subject": "General Programmes",
+			"time": "Less than 10 mins",
+			"bloom": "Remember"
+		}
+	]
+}
